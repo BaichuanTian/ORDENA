@@ -1,0 +1,5 @@
+[
+  {"sku": "NOODLE", "name": "Sample Noodles", "unit_price_cents": 750},
+  {"sku": "SOUP", "name": "Sample Soup", "unit_price_cents": 325},
+  {"sku": "TEA", "name": "Sample Tea", "unit_price_cents": 200}
+]

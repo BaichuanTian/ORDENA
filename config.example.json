@@ -1,0 +1,8 @@
+{
+  "app_name": "Restaurant POS CM Demo",
+  "version": "0.1.0",
+  "restaurant_name": "Demo Bistro",
+  "currency": "USD",
+  "tax_basis_points": 600,
+  "payment_mode": "not_implemented"
+}
